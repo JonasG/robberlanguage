@@ -1,0 +1,3 @@
+all = ['codec']
+
+import codec
